@@ -36,3 +36,7 @@ dp.Image(requests.get(img).content)
 source_img = imageio.imread(img) //displaying the image 
 
 ```
+
+
+# Sonar Mine Predictor
+The model is used for binary classification for a sonar device to predecity diffrence between rock and mine. The application of this can be in battle ships/sumbarines to safegaurd the Defence assets. The model used for predections is trained using Logisitc Regression model with a dataset obtained from kaggle. plese Find the dataset file at the root names as sonar_data and change the path accordingly in code.
