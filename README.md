@@ -40,3 +40,28 @@ source_img = imageio.imread(img) //displaying the image
 
 # Sonar Mine Predictor
 The model is used for binary classification for a sonar device to predecity diffrence between rock and mine. The application of this can be in battle ships/sumbarines to safegaurd the Defence assets. The model used for predections is trained using Logisitc Regression model with a dataset obtained from kaggle. plese Find the dataset file at the root names as sonar_data and change the path accordingly in code.
+
+# ChatBot
+This is a simple framework which is used to train a neural network using tensorflow using university qustionaries intent. once the neural network is trained you can query come question related to university service and bot will provide a satidfactoy answer. predection can vary as on how the bot is trained.
+
+`pip install tensorflow`
+
+
+### Examples
+
+`classify('What are you hours of operation?')`
+
+####`response('openhouse timings') `
+
+-- We're open Mon to Fri  day 9am-9pm and alternate sat from 9am to 12pm
+
+####`response('how can i pay my fees')`
+
+you can generate e-challan from nearest icici bank
+
+####`response("can i study computer engineering")`
+we provide a wide range of programmes, please visit programmes available section of the website
+
+####`response('LOR document')`
+we do provide LOR, please visit Head of the Department for more details, keep the Documents ready
+
