@@ -19,3 +19,6 @@ Text to speech framework
 `pip install pyttsx3`
 
 An application invokes the pyttsx3.init() factory function to get a reference to a pyttsx3
+
+### PyWhatKit
+PyWhatKit is a Python library with various helpful features. It's easy-to-use and does not require you to do any additional setup. Added support for youtbe queries and playing a song.
