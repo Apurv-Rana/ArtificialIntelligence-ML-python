@@ -28,6 +28,8 @@ PyWhatKit is a Python library with various helpful features. It's easy-to-use an
 # Sketch Creator (No Ai just a python based image procesisng library)
 Imageio is a Python library that provides a simple interface for reading and writing various image data such as animated images, volume data, and scientific formats.
 
+![image](https://user-images.githubusercontent.com/29672909/147487659-f0cb3490-6def-4afb-bd04-0d66841cadf1.png)
+
 ####reading the images and displaying
 
 ```
