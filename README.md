@@ -40,6 +40,7 @@ dp.Image(requests.get(img).content)
 source_img = imageio.imread(img) //displaying the image 
 
 ```
+![image](https://user-images.githubusercontent.com/29672909/147487736-9cf4bb85-7d67-41c6-a56e-0a051fe6bd4b.png)
 
 
 # Sonar Mine Predictor
